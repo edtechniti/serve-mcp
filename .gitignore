@@ -7,3 +7,6 @@ coverage/
 *.log
 .DS_Store
 PLAN.md
+
+# Claude Code local settings (approved commands can contain secrets)
+.claude/settings.local.json
